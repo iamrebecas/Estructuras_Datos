@@ -17,19 +17,19 @@ public class Main {
         //  System.out.println(Recursion.factorial(5));
         // System.out.println(Recursion.encontrarMax(arr, 1, arr[0]));
         // Pilas
-        Stack<Integer> Pila = new Stack<Integer>();
-        Pila.push(1);
-        Pila.push(2);
-        Pila.push(4);
-        System.out.println(Pila.pop());
-        System.out.println(Pila.pop());
-        System.out.println(Pila.pop());
-        System.out.println(Pila.pop());
+        // Stack<Integer> Pila = new Stack<Integer>();
+       // Pila.push(1);
+       // Pila.push(2);
+       // Pila.push(4);
+       // System.out.println(Pila.pop());
+       // System.out.println(Pila.pop());
+      //  System.out.println(Pila.pop());
+       // System.out.println(Pila.pop());
 
-        Pila.push(1);
-        Pila.push(2);
-        Pila.push(4);
-        System.out.println(Pila.encuentra(2));
+       // Pila.push(1);
+       // Pila.push(2);
+       // Pila.push(4);
+       // System.out.println(Pila.encuentra(2));
 
     }
 }
